@@ -1,5 +1,6 @@
 
 # Hospital Appointment Booking System
+![Build](https://github.com/sayednavaf/hospital-appointment/actions/workflows/maven.yml/badge.svg)
 
 A web application for booking and managing doctor appointments, built with Spring Boot.
 
