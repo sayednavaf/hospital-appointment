@@ -23,4 +23,9 @@ A web application for booking and managing doctor appointments, built with Sprin
 4. Open http://localhost:8080
 
 ## Screenshots
-(Add screenshots of the home page, booking page and doctor list here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40a5c427-848b-4802-9a3e-a647b79184ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15c1a02a-8701-4a7f-82a8-1f2f20f9c5c3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fae0b55-19af-4cbe-b12e-8ece5d5ae10b" />
+
+
+
